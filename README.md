@@ -6,7 +6,7 @@
 ⚡ Curiosidade: Adoro desafios, estou sempre em busca de novos conhecimentos na área de tecnologia.
 💍 Casada com um ótimo programador.
 🐱 Mãe de dois gatos, Chopin e Shelby.
-⚡ Nas horas vagas, gosto de me aventurar em games, ler CS Lewis e programar, para me irritar com cada .,;<> que esqueço de colocar.
+⚡ Nas horas vagas, gosto de me aventurar em games, ler C.S. Lewis e programar, para me irritar com cada .,;<> que esqueço de colocar.
 🎯 Meu objetivo é convencer meu marido a fugir pelo mundo programando e curtindo lugares diferentes, em busca da nossa pequena felicidade diária.
 
 
