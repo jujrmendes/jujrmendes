@@ -1,4 +1,4 @@
-👋 Olá, sou @JUHXSK, analista em DP e entusiasta da tecnologia.
+👋 Olá, sou @JUHXSK, analista em DP e entusiasta da programação.
 👀 Estou interessada em oportunidades de trabalho remoto.
 🚀 Atualmente estou aprendendo JavaScript e cursando todas as trilhas possíveis da Rocketseat.
 🔧 Procuro projetos que me permitam aprender e crescer profissionalmente.
