@@ -3,10 +3,10 @@
 🚀 Atualmente estou aprendendo JavaScript e cursando todas as trilhas possíveis da Rocketseat.
 🔧 Procuro projetos que me permitam aprender e crescer profissionalmente.
 📫 Como entrar em contato comigo: https://www.linkedin.com/in/juliarmendes/.
-⚡ Curiosidade: Adoro desafios, estou sempre em busca de novos conhecimentos na área de tecnologia.
+⚡ Curiosidade: Adoro desafios, estou sempre em busca de novos conhecimentos.
 💍 Casada com um ótimo programador.
 🐱 Mãe de dois gatos, Chopin e Shelby.
-⚡ Nas horas vagas, gosto de me aventurar em games, ler C.S. Lewis e programar, para me irritar com cada .,;<> que esqueço de colocar.
+⚡ Nas horas vagas, gosto de me aventurar em games, ler C.S. Lewis e programar, para me irritar com cada .,;<> que esqueço.
 🎯 Meu objetivo é convencer meu marido a fugir pelo mundo programando e curtindo lugares diferentes, em busca da nossa pequena felicidade diária.
 
 
