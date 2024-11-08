@@ -1,10 +1,11 @@
-👋 Olá, sou @jujrmendes, analista em DP e entusiasta da programação.<br>
-🚀 Atualmente estou aprendendo Python e JavaScript e cursando todas as trilhas possíveis da Rocketseat.<br>
-🔧 Procuro projetos que me permitam aprender e crescer profissionalmente.<br>
+👋 Olá, sou @jujrmendes, Analista de Sistemas com experiência em administração e tecnologia.<br>
+🚀 Atualmente, estou envolvida em automação de processos e integração de sistemas, sempre buscando melhorar a experiência dos usuários e otimizar operações. <br>
+💻 Estou cursando todas as trilhas possíveis da Rocketseat.
+🔧 Tenho uma base sólida em administração, compliance e gestão de equipes, o que me ajuda a agregar valor em todas as etapas dos projetos de TI, da implementação ao suporte.<br>
 📫 Como entrar em contato comigo: https://jujrmendes.github.io/Linktree/.<br>
 ⚡ Adoro desafios, estou sempre em busca de novos conhecimentos.<br>
 🐱 Chopin e Shelby. <br>
-⚡ Nas horas vagas, gosto de me aventurar em games, ler C.S. Lewis e programar, para me irritar com cada .,;>)} que esqueço de fechar.
+⚡ Nas horas vagas, gosto de me aventurar em games, ler C.S. Lewis e programar, para me irritar com cada .,;>)} que esqueço.
 
 
 <!---
