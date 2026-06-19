@@ -1,14 +1,42 @@
-👋 Olá, sou @jujrmendes, Analista de Sistemas com experiência em administração e tecnologia.<br>
-🚀 Atualmente, estou envolvida em automação de processos e integração de sistemas, sempre buscando melhorar a experiência dos usuários e otimizar operações. <br>
-💻 Estou cursando todas as trilhas possíveis da Rocketseat.<br>
-🔧 Tenho uma base sólida em administração, compliance e projetos/produtos, o que me ajuda a agregar valor em todas as etapas dos projetos de TI, da implementação ao suporte.<br>
-📫 Como entrar em contato comigo: https://jujrmendes.github.io/Linktree/.<br>
-⚡ Adoro desafios, estou sempre em busca de novos conhecimentos.<br>
-🐱 Chopin e Shelby. <br>
-⚡ Nas horas vagas, gosto de me aventurar em games, ler C.S. Lewis e programar, para me irritar com cada .,;>)} que esqueço.
+# 👋 Olá, eu sou a Júlia Mendes
 
+💻 Desenvolvedora Front-end e Analista de Sistemas apaixonada por tecnologia, arquitetura de software e criação de soluções que simplificam processos e melhoram a experiência dos usuários.
 
-<!---
-JUHXSK/JUHXSK is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🚀 Atualmente atuo no desenvolvimento e evolução de aplicações corporativas, automações e integrações, participando desde o levantamento de requisitos até a implementação e sustentação das soluções.
+
+### 🛠 Tecnologias e ferramentas
+
+* React
+* TypeScript
+* Node.js
+* Angular
+* PostgreSQL
+* Supabase
+* SQL
+* Microsoft Azure
+* Microsoft Graph
+* Git e GitHub
+
+### 📚 Atualmente estudando
+
+* Arquitetura de Software
+* Desenvolvimento Full Stack
+* Docker
+* Boas práticas e padrões de projeto
+
+🎓 Pós-graduanda em Arquitetura de Software, Ciência de Dados e Cybersecurity pela PUC-Campinas.
+
+### 🌱 Sempre aprendendo
+
+Estou sempre em busca de novos desafios e oportunidades para evoluir como desenvolvedora e construir soluções que gerem impacto positivo.
+
+### 📫 Contato
+
+🌐 https://jujrmendes.github.io/Linktree/
+
+### ⚡ Curiosidades
+
+* 🎮 Gosto de games e projetos pessoais.
+* 📚 Leitora de C.S. Lewis.
+* 🐱 Mãe dos gatos Chopin e Shelby.
+* ☕ Programando, aprendendo e brigando com os `;`, `{}` e `>()` esquecidos pelo caminho.
